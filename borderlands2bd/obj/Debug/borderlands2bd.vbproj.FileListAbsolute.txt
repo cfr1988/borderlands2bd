@@ -1,0 +1,14 @@
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\bin\Debug\borderlands2bd.exe.config
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\bin\Debug\borderlands2bd.exe
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\bin\Debug\borderlands2bd.pdb
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\bin\Debug\borderlands2bd.xml
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\bin\Debug\MySql.Data.dll
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\bin\Debug\MySql.Data.xml
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\obj\Debug\borderlands2bd.vbprojResolveAssemblyReference.cache
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\obj\Debug\borderlands2bd.Form1.resources
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\obj\Debug\borderlands2bd.Resources.resources
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\obj\Debug\borderlands2bd.vbproj.GenerateResource.Cache
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\obj\Debug\borderlands2bd.vbproj.CoreCompileInputs.cache
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\obj\Debug\borderlands2bd.exe
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\obj\Debug\borderlands2bd.xml
+C:\Users\carlos\source\repos\borderlands2bd\borderlands2bd\obj\Debug\borderlands2bd.pdb
